@@ -1,6 +1,6 @@
 <?php
 
-namespace Wanghonegit\Weather;
+namespace Wanghoneygit\Weather;
 
 class Weather
 {
