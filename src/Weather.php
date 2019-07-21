@@ -1,6 +1,6 @@
 <?php
 
-namespace Overtrue\Weather;
+namespace Wanghonegit\Weather;
 
 class Weather
 {
