@@ -1,0 +1,17 @@
+{
+    "name": "wanghoneygit\/weather",
+    "description": "a sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wanghoneygit",
+            "email": "794967@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wanghoneygit\\Weather\\": "src"
+        }
+    }
+}
